@@ -1,0 +1,5 @@
+plan:
+- input data using python
+- reformat data using python
+- implemnet multiple linear regresseion - java or python?
+- use jupyter notebook for the entire project and then create a python script
