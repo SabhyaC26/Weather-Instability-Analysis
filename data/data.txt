@@ -1,0 +1,1 @@
+Note that all the data used for this project is Open Source and can be found at the following link: ftp://ftp.cpc.ncep.noaa.gov/GIS/GRADS_GIS/GeoTIFF/TEMP/
