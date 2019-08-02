@@ -3,3 +3,14 @@ plan:
 - reformat data using python
 - implemnet multiple linear regresseion - java or python?
 - use jupyter notebook for the entire project and then create a python script
+
+Links:
+https://www.climate.gov/maps-data
+https://www.ncdc.noaa.gov/data-access
+https://undergrad.stanford.edu/programs/community-engaged-learning/examples-community-engaged-learning/geographic-impacts-climate
+http://worldclim.org/version2
+https://www.theguardian.com/environment/2017/may/05/the-great-climate-silence-we-are-on-the-edge-of-the-abyss-but-we-ignore-it
+https://www.cnn.com/2017/02/28/us/sutter-climate-opinion-maps/index.html
+https://insideclimatenews.org/news/31082015/yes-warming-arctic-means-cold-winters-elsewhere-Boston-US-Asia
+https://www.nass.usda.gov/Publications/AgCensus/2012/
+
