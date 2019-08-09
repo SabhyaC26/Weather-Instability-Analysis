@@ -1,8 +1,9 @@
 plan:
-- input data using python
-- reformat data using python
-- implemnet multiple linear regresseion - java or python?
-- use jupyter notebook for the entire project and then create a python script
+- input data using python (DONE)
+- reformat data using python (DONE)
+- implemnet multiple linear regresseion - java or python? (DONE IN PYTHON)
+- scale algorithm to work on real data (TODO)
+- use jupyter notebook for the entire project and then create a python script (NEED TO DO!)
 
 Links:
 https://www.climate.gov/maps-data
