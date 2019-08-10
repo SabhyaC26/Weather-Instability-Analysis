@@ -1,3 +1,4 @@
 Note that all the data used for this project is Open Source and can be found at the following link: ftp://ftp.cpc.ncep.noaa.gov/GIS/GRADS_GIS/GeoTIFF/TEMP/
 
-update link when you use the bigger data set
+This is only a portion of the big data set from 2006-2009
+Switch to the bigger data set later
