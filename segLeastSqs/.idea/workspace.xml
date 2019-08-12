@@ -56,11 +56,15 @@
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
     </configuration>
+    <configuration name="SegLeastSquares" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="SegLeastSquares" />
+      <module name="segLeastSqs" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;$PROJECT_DIR$/jdata/sampledata.csv&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+      <method v="2" />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
